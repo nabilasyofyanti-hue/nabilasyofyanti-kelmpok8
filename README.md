@@ -20,3 +20,6 @@ Tujuan dari project ini adalah untuk membantu petugas perpustakaan dalam mengelo
 <img width="1652" height="863" alt="Screenshot 2026-06-22 233156" src="https://github.com/user-attachments/assets/23b69d72-e5e2-4f1c-9aa9-94e0cfaa2a6c" />
 
 <img width="960" height="541" alt="Screenshot 2026-06-22 233236" src="https://github.com/user-attachments/assets/6633cde2-f57e-4f1d-a262-908ebc476b00" />
+
+<img width="960" height="541" alt="Screenshot 2026-06-22 233236" src="https://github.com/user-attachments/assets/6ebaa51a-6040-4894-9366-ef1215872022" />
+
