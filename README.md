@@ -1,5 +1,5 @@
-# nabilasyofyanti-kelmpok8  project kunjungan perpustakaan universitas metamedia
-PEMOGRAMAN WEB
+# nabilasyofyanti-kelmpok8  project kunjungan perpustakaan 
+PEMOGRAMAN WEB Universitas Metamedia
 Project Kunjungan Perpustakaan merupakan sistem berbasis web yang dirancang untuk memudahkan pengelolaan data kunjungan dan peminjaman buku di perpustakaan. Sistem ini menyediakan fitur pengelolaan data anggota, data buku, transaksi peminjaman dan pengembalian, serta pembuatan laporan sehingga proses administrasi perpustakaan menjadi lebih efektif dan terstruktur.
 
 Tujuan Proyek
